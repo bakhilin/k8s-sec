@@ -36,7 +36,7 @@ docker run -it -d ubuntu # if you want to close container, write 'exit'
 docker stop container_id
 ```
 
-
+## Словарь непонятных терминов
 
 ## License
 
